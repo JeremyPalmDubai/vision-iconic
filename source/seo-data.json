@@ -1,0 +1,662 @@
+{
+  "en": {
+    "hub": "Residences at Vision Iconic",
+    "hubIntro": "Compare the eight residence and retail categories listed in the supplied Vision Iconic brochure. Each page brings together the advertised starting price, the available floor-plan evidence and the questions to resolve before choosing a unit.",
+    "unitNames": [
+      "1-bedroom apartments",
+      "2-bedroom apartments",
+      "2-bedroom Royal Suites",
+      "3-bedroom apartments",
+      "3-bedroom Royal Suites",
+      "4-bedroom duplex residences",
+      "5-bedroom duplex residences",
+      "Retail spaces"
+    ],
+    "unitSlugs": [
+      "1-bedroom-apartment",
+      "2-bedroom-apartment",
+      "2-bedroom-royal-suite",
+      "3-bedroom-apartment",
+      "3-bedroom-royal-suite",
+      "4-bedroom-duplex",
+      "5-bedroom-duplex",
+      "retail-space"
+    ],
+    "hubSlug": "residences",
+    "guideSlugs": [
+      "prices-and-payment-plan",
+      "buying-remotely",
+      "location-and-amenities",
+      "investor-visa-and-golden-visa",
+      "property-tax-and-purchase-costs"
+    ],
+    "unitBodies": [
+      "The one-bedroom layouts in the brochure both show a total area of 76.45 m², including a 55.11 m² suite and 21.34 m² balcony. This category offers a useful starting point for comparing the smallest residential format shown, without assuming that every available apartment has the same layout.",
+      "The brochure presents two very different two-bedroom examples: Type 1 totals 95.22 m², while Type 4 totals 193.38 m² with a 115.70 m² balcony. Compare the exact unit plan rather than relying on the bedroom count alone; outdoor space changes the total area substantially.",
+      "The two-bedroom Royal Suite is a separately priced category in the brochure, starting above the standard two-bedroom residence. No Royal Suite-specific layout or area is supplied. Ask for the individual plan and a written explanation of what distinguishes the offered suite before comparing it with the standard category.",
+      "Two three-bedroom layouts are illustrated: Type 1 totals 121.91 m² and Type 2 totals 111.29 m². Their bedroom arrangements and balcony areas differ. The supplied plan gives a concrete basis for reviewing circulation and outdoor space before requesting an available unit.",
+      "The three-bedroom Royal Suite has its own starting price in the brochure. Its exact floor area and dedicated plan are not included in the supplied material. Compare the written specification against the standard three-bedroom layouts and ask which features are included in the actual offer.",
+      "The illustrated four-bedroom Type 1 is arranged over ground and first floors. Its 287.03 m² total comprises 158.25 m² of suite area and 128.78 m² of balconies. This is a distinct duplex layout; confirm the usable areas, internal stairs and the specific unit configuration before choosing.",
+      "The illustrated five-bedroom Type 1 spans two levels, with a total of 237.46 m²: 188.41 m² of suite area and 49.05 m² of balconies. Although it has more bedrooms, the shown total area is smaller than the four-bedroom example. Compare the internal space and layout, not bedroom count alone.",
+      "Vision Iconic combines residences with 27 ground-floor high-street retail shops according to the brochure. Retail is a commercial category, with a different use case from buying an apartment. No shop-specific area or layout is supplied; request permitted use, fit-out conditions, charges and the proposed unit plan."
+    ],
+    "labels": {
+      "home": "Project",
+      "guides": "Buyer guides",
+      "specs": "Price & layout evidence",
+      "all": "Compare all residences",
+      "layout": "Explore the supplied floor plan",
+      "noPlan": "A dedicated plan for this category was not supplied. Request the exact unit layout and specification.",
+      "facts": "What to confirm before buying",
+      "checklist": [
+        "Current written price and exact unit number",
+        "Developer payment schedule and total purchase costs",
+        "Floor plan, included features and contractual terms",
+        "Registration process and any visa conditions"
+      ],
+      "other": "Other residence categories",
+      "read": "Read the guide",
+      "price": "Starting price in the brochure",
+      "area": "Illustrative total area",
+      "context": "Project architectural render; not a photograph of this individual residence.",
+      "faq": "Questions about this category",
+      "qprice": "What is the starting price?",
+      "qplan": "What floor plan is available?",
+      "qremote": "Can I buy this category from abroad?",
+      "qvisa": "Does this price guarantee a Golden Visa?",
+      "aprice": "The supplied brochure lists {name} from AED {aed} and USD {usd}. These are brochure figures, not a current availability guarantee. Obtain a written unit-specific offer.",
+      "aremote": "Remote purchase depends on the developer's process and the unit offered. A passport begins the file; additional identity, address or source-of-funds documents may be required.",
+      "avisa": "No. A price above AED 2 million does not itself guarantee residency. Golden Visa eligibility depends on the qualifying investment and official conditions; retail and residential purchases should be assessed individually.",
+      "overview": "Explore the project",
+      "updated": "Information checked against the supplied brochure · 5 October 2026",
+      "sources": "Official references"
+    },
+    "guides": [
+      [
+        "Vision Iconic prices and developer payment plans",
+        "Compare the advertised prices in AED and USD, then establish the actual payment schedule before reserving.",
+        "The brochure distinguishes eight categories, from one-bedroom residences to Royal Suites, duplex homes and retail. One bedroom starts at AED 2,250,000 / USD 612,245; standard two bedrooms at AED 3,300,000 / USD 897,959. Compare categories through the residence directory rather than treating one advertised starting price as the price of every unit.",
+        "No instalment percentages or payment dates are provided in the supplied brochure. Request the booking amount, each instalment trigger, completion-related payments and any fees in writing. A developer payment plan differs from a mortgage; neither approval nor the absence of documentation should be assumed.",
+        "Review the complete acquisition budget: agreed unit price, registration costs, applicable developer or agency charges, ongoing service charges and currency-transfer costs. The USD values reproduce the brochure and are not a live exchange quotation. Only a current written offer can establish the exact financial terms."
+      ],
+      [
+        "Buying Vision Iconic remotely from abroad",
+        "A practical sequence for reviewing a Dubai purchase before travelling or transferring money.",
+        "Begin with the exact residence: unit number, category, floor plan, price and contractual terms. Use the residence pages to compare the supplied layouts, then request the actual offered unit plan. Project renders show the architectural vision; they do not establish the condition or view of every individual unit.",
+        "Remote completion may be supported by the developer, but the process must be confirmed. Establish how identification, signing, payments and registration will be handled. A passport is a starting document. Identity, address and source-of-funds checks can still be required by the parties involved.",
+        "Before transferring funds, verify the developer and project information through Dubai Land Department, review the sale documents and confirm the authorised payment instructions. Overseas buyers should also check the reporting and tax consequences in their country of residence. Do not treat a simplified sales process as an exemption from compliance checks."
+      ],
+      [
+        "Vision Iconic location and amenities in Dubai",
+        "Understand the Nad Al Sheba setting and the services described in the project brochure.",
+        "The supplied brochure locates Vision Iconic in Nad Al Sheba 1 within Mercedes-Benz Places | Binghatti City. It identifies the surrounding district with Meydan's equestrian setting and racecourse. No verified travel-time table is supplied, so journey times should be checked for your actual destinations and traffic conditions.",
+        "Vision Iconic is described as a mixed residential and retail tower with 67 residential floors, 1,426 apartments and 27 ground-floor shops. The architectural language includes a terraced silver spine, a circular podium and a 2,966 m² water plaza. These are project-level features, not specifications for an individual apartment.",
+        "The brochure lists sky and podium pools, concierge and valet services, spa facilities, fitness, yoga and smart systems. Confirm access, operating arrangements, handover specification and service charges in the actual sale documents. The brochure describes a LEED qualification ambition, not a completed certification."
+      ],
+      [
+        "Investor visas and Golden Visa for a Dubai property purchase",
+        "Distinguish property ownership, qualifying investment and official residency approval.",
+        "Buying property and obtaining residency are separate processes. A real estate investment can support a residence application, but the authority's rules and the investor's individual circumstances determine eligibility. The advertised price of a property does not replace the required documentation or approval.",
+        "Official UAE guidance generally sets a qualifying real estate investment threshold of AED 2 million for the property Golden Visa route, alongside the applicable conditions. The treatment of off-plan property, financing and evidence must be checked with the competent authority. Do not assume that any listed unit is automatically eligible.",
+        "Other property investor residence options have their own requirements. Before choosing a unit primarily for a visa objective, ask which route applies, what ownership evidence is needed, when an application can be submitted and which costs are separate from the purchase. Consult the official UAE and ICP references below."
+      ],
+      [
+        "Dubai property tax and purchase costs",
+        "Understand where 0% claims apply and which costs still belong in your budget.",
+        "The UAE does not levy personal income tax. Federal Tax Authority guidance generally excludes qualifying personal real estate investment income from corporate tax. The conditions and whether an activity is personal investment or a licensed business matter; a broad 0% message is not a substitute for checking your own circumstances.",
+        "Your country of tax residence may impose reporting, income or capital-gains obligations even when the UAE treatment is favourable. A residence visa does not automatically determine tax residence. Overseas buyers should obtain advice relevant to their own country rather than assuming that a Dubai purchase eliminates worldwide taxation.",
+        "Government registration fees and other property costs still apply. A zero buyer-side agency commission offer should be confirmed in writing and does not eliminate developer charges, registration costs or recurring service charges. Request an itemised purchase budget and the expected ongoing charges before comparing investment options."
+      ]
+    ]
+  },
+  "fr": {
+    "hub": "Les résidences Vision Iconic",
+    "hubIntro": "Comparez les huit catégories résidentielles et commerciales de la brochure Vision Iconic. Chaque page rassemble le prix de départ annoncé, les plans disponibles et les points à vérifier avant de choisir votre lot.",
+    "unitNames": [
+      "Appartements 1 chambre",
+      "Appartements 2 chambres",
+      "Suites Royales 2 chambres",
+      "Appartements 3 chambres",
+      "Suites Royales 3 chambres",
+      "Duplex 4 chambres",
+      "Duplex 5 chambres",
+      "Espaces commerciaux"
+    ],
+    "unitSlugs": [
+      "appartement-1-chambre",
+      "appartement-2-chambres",
+      "suite-royale-2-chambres",
+      "appartement-3-chambres",
+      "suite-royale-3-chambres",
+      "duplex-4-chambres",
+      "duplex-5-chambres",
+      "espace-commercial"
+    ],
+    "hubSlug": "residences",
+    "guideSlugs": [
+      "prix-et-plan-de-paiement",
+      "acheter-a-distance",
+      "emplacement-et-services",
+      "visa-investisseur-et-golden-visa",
+      "fiscalite-et-frais-achat"
+    ],
+    "unitBodies": [
+      "Les deux plans d'une chambre de la brochure indiquent 76,45 m² au total : 55,11 m² intérieurs et 21,34 m² de balcon. Cette catégorie permet de comparer le plus petit format résidentiel présenté, sans supposer que tous les lots disponibles possèdent le même agencement.",
+      "La brochure présente deux exemples très différents : le Type 1 totalise 95,22 m², tandis que le Type 4 atteint 193,38 m², dont 115,70 m² de balcon. Comparez le plan exact du lot ; le nombre de chambres seul ne reflète pas l'importance de la surface extérieure.",
+      "La Suite Royale de deux chambres constitue une catégorie tarifaire distincte, au-dessus de l'appartement standard. Aucun plan ni surface propres à cette suite ne figurent dans les documents fournis. Demandez le plan individuel et une description écrite des différences avant de comparer les offres.",
+      "Deux plans de trois chambres sont présentés : le Type 1 totalise 121,91 m² et le Type 2, 111,29 m². La disposition des chambres et les balcons diffèrent. Le plan fourni permet d'étudier la circulation et les espaces extérieurs avant de demander un lot disponible.",
+      "La Suite Royale de trois chambres possède son propre prix de départ. Sa surface exacte et son plan dédié ne sont pas inclus dans les documents fournis. Comparez le descriptif écrit aux appartements standards et vérifiez les prestations réellement comprises dans l'offre.",
+      "Le Type 1 de quatre chambres est organisé sur deux niveaux. Les 287,03 m² comprennent 158,25 m² intérieurs et 128,78 m² de balcons. Ce duplex présente un agencement distinct ; confirmez les surfaces utiles, l'escalier intérieur et la configuration du lot proposé.",
+      "Le Type 1 de cinq chambres occupe deux niveaux et totalise 237,46 m² : 188,41 m² intérieurs et 49,05 m² de balcons. Malgré une chambre supplémentaire, la surface totale présentée est inférieure à celle de l'exemple quatre chambres. Comparez les espaces intérieurs et l'agencement.",
+      "La brochure annonce 27 commerces en rez-de-chaussée au sein de Vision Iconic. Cette catégorie commerciale répond à un usage différent de l'achat résidentiel. Aucun plan ou surface de boutique spécifique n'est fourni ; demandez les usages autorisés, conditions d'aménagement, charges et plan du lot."
+    ],
+    "labels": {
+      "home": "Le projet",
+      "guides": "Guides d'achat",
+      "specs": "Prix et plans disponibles",
+      "all": "Comparer les résidences",
+      "layout": "Consulter le plan fourni",
+      "noPlan": "Aucun plan dédié à cette catégorie n'a été fourni. Demandez le plan et le descriptif exacts du lot.",
+      "facts": "À vérifier avant l'achat",
+      "checklist": [
+        "Prix écrit actualisé et numéro exact du lot",
+        "Calendrier de paiement et frais complets",
+        "Plan, prestations incluses et conditions du contrat",
+        "Enregistrement et conditions éventuelles de visa"
+      ],
+      "other": "Autres catégories",
+      "read": "Lire le guide",
+      "price": "Prix de départ de la brochure",
+      "area": "Surface totale du plan illustratif",
+      "context": "Rendu architectural du projet ; ce n'est pas une photo de cette résidence individuelle.",
+      "faq": "Questions sur cette catégorie",
+      "qprice": "Quel est le prix de départ ?",
+      "qplan": "Quel plan est disponible ?",
+      "qremote": "Peut-on acheter cette catégorie depuis la France ?",
+      "qvisa": "Ce prix garantit-il un Golden Visa ?",
+      "aprice": "La brochure indique {name} à partir de {aed} AED et {usd} USD. Ces montants ne garantissent pas une disponibilité actuelle. Demandez une offre écrite pour le lot précis.",
+      "aremote": "L'achat à distance dépend du processus du promoteur et du lot proposé. Le passeport ouvre le dossier ; des justificatifs d'identité, d'adresse et d'origine des fonds peuvent être demandés.",
+      "avisa": "Non. Un prix supérieur à 2 millions AED ne garantit pas la résidence. L'investissement doit être admissible et respecter les conditions officielles. Les achats résidentiels et commerciaux doivent être examinés individuellement.",
+      "overview": "Découvrir le projet",
+      "updated": "Informations vérifiées dans la brochure fournie · 5 octobre 2026",
+      "sources": "Références officielles"
+    },
+    "guides": [
+      [
+        "Prix Vision Iconic et plans de paiement promoteur",
+        "Comparez les prix en AED et USD, puis vérifiez les échéances réelles avant toute réservation.",
+        "La brochure distingue huit catégories, des appartements d'une chambre aux Suites Royales, duplex et commerces. Le départ annoncé est de 2 250 000 AED / 612 245 USD pour une chambre et de 3 300 000 AED / 897 959 USD pour deux chambres standards. Le répertoire des résidences permet de comparer les catégories sans généraliser un prix d'appel à tous les lots.",
+        "Aucun pourcentage d'échéance ni calendrier de paiement n'est fourni dans la brochure. Demandez par écrit le montant de réservation, les échéances, les versements liés à la livraison et les frais. Le plan promoteur diffère d'un crédit immobilier ; son acceptation et l'absence de justificatifs ne sont pas automatiques.",
+        "Établissez un budget complet : prix du lot, enregistrement, frais applicables du promoteur ou de l'agence, charges récurrentes et coûts de change. Les montants USD reprennent la brochure et ne sont pas un taux de change en direct. Seule une offre écrite actualisée précise les conditions exactes."
+      ],
+      [
+        "Acheter Vision Iconic à distance depuis la France",
+        "Les étapes à examiner avant de voyager ou de transférer des fonds pour votre achat à Dubaï.",
+        "Commencez par le lot exact : numéro, catégorie, plan, prix et conditions du contrat. Comparez les plans des pages résidences, puis demandez celui du lot proposé. Les rendus représentent la vision architecturale ; ils ne prouvent pas la vue ou l'état de chaque appartement.",
+        "La réalisation à distance dépend du promoteur. Confirmez les modalités d'identification, signature, paiement et enregistrement. Le passeport est un document initial, mais des contrôles d'identité, d'adresse et d'origine des fonds peuvent être exigés par les parties concernées.",
+        "Avant un transfert, vérifiez le projet et le promoteur auprès du Dubai Land Department, examinez les documents de vente et les coordonnées de paiement autorisées. Depuis la France, faites également vérifier les obligations fiscales et déclaratives françaises. Une procédure simplifiée ne dispense pas des contrôles de conformité."
+      ],
+      [
+        "Emplacement et services Vision Iconic à Dubaï",
+        "Découvrez le quartier de Nad Al Sheba et les services décrits dans la brochure.",
+        "La brochure situe Vision Iconic à Nad Al Sheba 1, au sein de Mercedes-Benz Places | Binghatti City. Elle associe ce quartier au cadre équestre et à l'hippodrome de Meydan. Aucun tableau de temps de trajet vérifié n'est fourni : contrôlez les déplacements vers vos destinations selon la circulation.",
+        "Le projet est décrit comme une tour mixte avec 67 étages résidentiels, 1 426 appartements et 27 commerces en rez-de-chaussée. L'architecture comprend une silhouette argentée en terrasses, un podium circulaire et une place d'eau de 2 966 m². Ce sont des caractéristiques du projet, pas de chaque appartement.",
+        "La brochure mentionne piscines en hauteur et sur podium, conciergerie, voituriers, spa, fitness, yoga et systèmes intelligents. Vérifiez l'accès, l'exploitation, les prestations à la livraison et les charges dans les documents contractuels. La qualification LEED est une ambition présentée, pas une certification déjà obtenue."
+      ],
+      [
+        "Visa investisseur et Golden Visa pour un achat à Dubaï",
+        "Distinguez acquisition immobilière, investissement admissible et approbation du visa.",
+        "L'achat et l'obtention d'un visa sont deux démarches distinctes. Un investissement peut soutenir une demande de résidence, mais les règles de l'autorité et la situation individuelle déterminent l'éligibilité. Le prix annoncé d'un bien ne remplace ni les justificatifs ni l'approbation.",
+        "Les indications officielles des EAU fixent généralement un seuil d'investissement immobilier admissible de 2 millions AED pour la voie immobilière du Golden Visa, avec les conditions applicables. Le traitement d'un bien sur plan, du financement et des preuves doit être vérifié auprès de l'autorité compétente.",
+        "Les autres visas investisseur immobilier disposent de leurs propres conditions. Avant de choisir un lot pour un objectif de visa, vérifiez la voie applicable, les preuves de propriété, la date possible de dépôt et les frais séparés. Consultez les références officielles des EAU et de l'ICP ci-dessous."
+      ],
+      [
+        "Fiscalité et frais d'un achat immobilier à Dubaï",
+        "Comprenez les mentions 0 % et les frais à intégrer dans votre budget.",
+        "Les EAU ne prélèvent pas d'impôt sur le revenu personnel. Les indications de l'autorité fiscale excluent généralement les revenus d'investissements immobiliers personnels admissibles de l'impôt sur les sociétés. Les conditions et la distinction entre investissement personnel et activité professionnelle restent essentielles.",
+        "La France ou votre pays de résidence fiscale peut imposer des obligations déclaratives et une fiscalité sur les revenus ou plus-values. Un visa de résidence ne détermine pas automatiquement la résidence fiscale. Faites vérifier votre situation au lieu de supposer qu'un achat à Dubaï supprime toute imposition mondiale.",
+        "Les frais d'enregistrement et autres coûts immobiliers restent applicables. L'offre de commission acquéreur de 0 % doit être confirmée par écrit ; elle ne supprime pas les frais promoteur ni les charges récurrentes. Demandez un budget d'acquisition détaillé et une estimation des charges avant de comparer les possibilités."
+      ]
+    ]
+  },
+  "es": {
+    "hub": "Residencias Vision Iconic",
+    "hubIntro": "Compara las ocho categorías residenciales y comerciales de la brochure Vision Iconic. Cada página reúne el precio inicial, los planos disponibles y los puntos que debes confirmar antes de elegir una unidad.",
+    "unitNames": [
+      "Apartamentos de 1 dormitorio",
+      "Apartamentos de 2 dormitorios",
+      "Royal Suites de 2 dormitorios",
+      "Apartamentos de 3 dormitorios",
+      "Royal Suites de 3 dormitorios",
+      "Dúplex de 4 dormitorios",
+      "Dúplex de 5 dormitorios",
+      "Locales comerciales"
+    ],
+    "unitSlugs": [
+      "apartamento-1-dormitorio",
+      "apartamento-2-dormitorios",
+      "royal-suite-2-dormitorios",
+      "apartamento-3-dormitorios",
+      "royal-suite-3-dormitorios",
+      "duplex-4-dormitorios",
+      "duplex-5-dormitorios",
+      "local-comercial"
+    ],
+    "hubSlug": "residencias",
+    "guideSlugs": [
+      "precios-y-plan-de-pagos",
+      "comprar-a-distancia",
+      "ubicacion-y-servicios",
+      "visado-inversor-y-golden-visa",
+      "impuestos-y-gastos-compra"
+    ],
+    "unitBodies": [
+      "Los dos planos de un dormitorio muestran 76,45 m² en total: 55,11 m² interiores y 21,34 m² de balcón. Esta categoría permite comparar el formato residencial más pequeño presentado, sin asumir que todas las unidades disponibles tengan la misma distribución.",
+      "La brochure presenta dos ejemplos distintos: el Tipo 1 suma 95,22 m² y el Tipo 4, 193,38 m², con 115,70 m² de balcón. Compara el plano exacto; el número de dormitorios no refleja por sí solo la importancia del espacio exterior.",
+      "La Royal Suite de dos dormitorios tiene un precio propio, superior al apartamento estándar. No se facilita una superficie o un plano exclusivo para esta categoría. Solicita el plano individual y una explicación escrita de las diferencias antes de comparar ofertas.",
+      "Hay dos planos de tres dormitorios: Tipo 1 de 121,91 m² y Tipo 2 de 111,29 m². La distribución de dormitorios y los balcones varían. El plano permite estudiar la circulación y el espacio exterior antes de solicitar una unidad disponible.",
+      "La Royal Suite de tres dormitorios tiene su propio precio inicial. La superficie exacta y el plano específico no están incluidos. Compara las especificaciones escritas con los apartamentos estándar y confirma las prestaciones de la oferta real.",
+      "El Tipo 1 de cuatro dormitorios se distribuye en dos plantas. Sus 287,03 m² incluyen 158,25 m² interiores y 128,78 m² de balcones. Confirma superficies útiles, escalera interior y configuración concreta del dúplex ofrecido.",
+      "El Tipo 1 de cinco dormitorios ocupa dos niveles y suma 237,46 m²: 188,41 m² interiores y 49,05 m² de balcones. Aunque tiene más dormitorios, el total mostrado es menor que el ejemplo de cuatro. Compara superficie interior y distribución.",
+      "Vision Iconic incluye 27 locales a pie de calle en planta baja según la brochure. Es una categoría comercial con un uso distinto al residencial. No se facilitan superficies ni planos individuales; solicita uso permitido, condiciones de acondicionamiento, gastos y plano del local."
+    ],
+    "labels": {
+      "home": "El proyecto",
+      "guides": "Guías de compra",
+      "specs": "Precios y planos disponibles",
+      "all": "Comparar residencias",
+      "layout": "Ver el plano facilitado",
+      "noPlan": "No se ha facilitado un plano específico de esta categoría. Solicita la distribución y las especificaciones de la unidad.",
+      "facts": "Qué confirmar antes de comprar",
+      "checklist": [
+        "Precio actualizado por escrito y número de unidad",
+        "Calendario de pagos y costes totales",
+        "Plano, prestaciones incluidas y contrato",
+        "Registro y condiciones de visado"
+      ],
+      "other": "Otras categorías",
+      "read": "Leer la guía",
+      "price": "Precio inicial de la brochure",
+      "area": "Superficie total del plano ilustrativo",
+      "context": "Render del proyecto; no es una fotografía de esta residencia individual.",
+      "faq": "Preguntas sobre esta categoría",
+      "qprice": "¿Cuál es el precio inicial?",
+      "qplan": "¿Qué plano está disponible?",
+      "qremote": "¿Puedo comprar esta categoría desde España?",
+      "qvisa": "¿Este precio garantiza una Golden Visa?",
+      "aprice": "La brochure indica {name} desde {aed} AED y {usd} USD. Son cifras de la brochure, sin garantía de disponibilidad actual. Solicita una oferta escrita para la unidad concreta.",
+      "aremote": "La compra remota depende del promotor y de la unidad. El pasaporte inicia el expediente; pueden exigirse documentos de identidad, domicilio y origen de fondos.",
+      "avisa": "No. Un precio superior a 2 millones AED no garantiza residencia. La inversión debe ser admisible y cumplir las condiciones oficiales. Las compras comerciales y residenciales se valoran individualmente.",
+      "overview": "Descubrir el proyecto",
+      "updated": "Información verificada en la brochure facilitada · 5 de octubre de 2026",
+      "sources": "Referencias oficiales"
+    },
+    "guides": [
+      [
+        "Precios Vision Iconic y planes de pago",
+        "Compara precios AED y USD y verifica el calendario real antes de reservar.",
+        "La brochure distingue ocho categorías, desde un dormitorio hasta Royal Suites, dúplex y locales. Un dormitorio parte de 2.250.000 AED / 612.245 USD y dos dormitorios estándar de 3.300.000 AED / 897.959 USD. El directorio permite comparar sin atribuir un precio inicial a todas las unidades.",
+        "No se facilitan porcentajes de cuotas ni fechas de pago. Pide por escrito la reserva, los hitos, pagos ligados a entrega y gastos. Un plan del promotor difiere de una hipoteca: no debes asumir aprobación ni ausencia de documentación.",
+        "Revisa el presupuesto completo: precio, registro, cargos del promotor o agencia, gastos recurrentes y cambio de divisas. Los USD reproducen la brochure, no un cambio en tiempo real. Solo una oferta escrita actualizada establece los términos exactos."
+      ],
+      [
+        "Comprar Vision Iconic a distancia desde España",
+        "Pasos para revisar una compra en Dubái antes de viajar o transferir fondos.",
+        "Empieza por la unidad concreta: número, categoría, plano, precio y contrato. Compara los planos de las páginas de residencias y solicita el de la unidad ofrecida. Los renders del proyecto no prueban vistas ni estado de cada apartamento.",
+        "El promotor puede admitir trámites a distancia, pero confirma identificación, firma, pagos y registro. El pasaporte es el documento inicial. Promotor, banco o autoridades pueden exigir identidad, domicilio y origen de fondos.",
+        "Antes de transferir, comprueba proyecto y promotor con Dubai Land Department, revisa documentos y confirma instrucciones de pago autorizadas. Desde España, verifica obligaciones fiscales y declarativas españolas. Una venta simplificada no elimina controles de cumplimiento."
+      ],
+      [
+        "Ubicación y servicios de Vision Iconic",
+        "Conoce Nad Al Sheba y los servicios descritos en la brochure.",
+        "Vision Iconic está situado en Nad Al Sheba 1, en Mercedes-Benz Places | Binghatti City. La brochure destaca el entorno ecuestre y el hipódromo de Meydan. No aporta tiempos de viaje verificados; comprueba rutas según destinos y tráfico.",
+        "La torre mixta presenta 67 plantas residenciales, 1.426 apartamentos y 27 locales en planta baja. La arquitectura incluye terrazas plateadas, un podio circular y una plaza de agua de 2.966 m². Son características del proyecto, no de cada unidad.",
+        "Se describen piscinas elevadas y de podio, conserjería, aparcacoches, spa, fitness, yoga y sistemas inteligentes. Confirma acceso, funcionamiento, entrega y gastos en el contrato. La cualificación LEED se presenta como objetivo, no como certificación ya obtenida."
+      ],
+      [
+        "Visado de inversor y Golden Visa al comprar en Dubái",
+        "Distingue propiedad, inversión admisible y aprobación oficial.",
+        "Comprar un inmueble y obtener residencia son procesos separados. La inversión puede apoyar una solicitud, pero las reglas oficiales y la situación individual determinan elegibilidad. Un precio anunciado no sustituye documentos ni aprobación.",
+        "La orientación oficial suele establecer al menos 2 millones AED de inversión inmobiliaria admisible para la Golden Visa, junto con otras condiciones. Consulta a la autoridad competente sobre obra sobre plano, financiación y pruebas. Ninguna unidad debe considerarse automáticamente elegible.",
+        "Otros visados inmobiliarios tienen sus propios requisitos. Antes de elegir por el visado, confirma vía, pruebas de propiedad, momento de solicitud y costes separados. Consulta las referencias oficiales de EAU e ICP."
+      ],
+      [
+        "Impuestos y gastos al comprar en Dubái",
+        "Comprende las afirmaciones del 0 % y los costes que debes presupuestar.",
+        "Los EAU no gravan la renta personal. La autoridad fiscal suele excluir ingresos de inversiones inmobiliarias personales admisibles del impuesto de sociedades. Las condiciones y la distinción entre inversión personal y actividad profesional importan.",
+        "España o tu país de residencia fiscal puede imponer declaraciones e impuestos sobre rentas y plusvalías. Un visado no determina automáticamente la residencia fiscal. Revisa tu situación antes de asumir que comprar en Dubái elimina toda tributación mundial.",
+        "Siguen existiendo tasas de registro y otros gastos inmobiliarios. Una oferta sin comisión al comprador requiere confirmación escrita y no elimina cargos del promotor ni costes recurrentes. Solicita un presupuesto desglosado y gastos previstos antes de comparar inversiones."
+      ]
+    ]
+  },
+  "nl": {
+    "hub": "Vision Iconic woningen",
+    "hubIntro": "Vergelijk de acht woon- en winkelcategorieën uit de brochure. Iedere pagina bundelt de vanafprijs, beschikbare plattegronden en punten die je moet bevestigen voordat je een woning kiest.",
+    "unitNames": [
+      "Appartementen met 1 slaapkamer",
+      "Appartementen met 2 slaapkamers",
+      "Royal Suites met 2 slaapkamers",
+      "Appartementen met 3 slaapkamers",
+      "Royal Suites met 3 slaapkamers",
+      "Duplexwoningen met 4 slaapkamers",
+      "Duplexwoningen met 5 slaapkamers",
+      "Winkelruimtes"
+    ],
+    "unitSlugs": [
+      "appartement-1-slaapkamer",
+      "appartement-2-slaapkamers",
+      "royal-suite-2-slaapkamers",
+      "appartement-3-slaapkamers",
+      "royal-suite-3-slaapkamers",
+      "duplex-4-slaapkamers",
+      "duplex-5-slaapkamers",
+      "winkelruimte"
+    ],
+    "hubSlug": "woningen",
+    "guideSlugs": [
+      "prijzen-en-betalingsplan",
+      "kopen-op-afstand",
+      "locatie-en-voorzieningen",
+      "investeerdersvisum-en-golden-visa",
+      "belasting-en-aankoopkosten"
+    ],
+    "unitBodies": [
+      "Beide eenkamerplattegronden tonen 76,45 m² totaal: 55,11 m² binnenruimte en 21,34 m² balkon. Deze categorie is het kleinste getoonde woonformaat. Dit betekent niet dat elke beschikbare woning exact dezelfde indeling heeft.",
+      "De brochure toont twee uiteenlopende voorbeelden: Type 1 is 95,22 m² en Type 4 is 193,38 m², inclusief 115,70 m² balkon. Vergelijk de concrete plattegrond; het aantal slaapkamers zegt niet alles over de buitenruimte.",
+      "De Royal Suite met twee slaapkamers is een aparte prijscategorie boven de standaardwoning. Een specifieke oppervlakte en plattegrond zijn niet aangeleverd. Vraag de individuele indeling en een schriftelijke uitleg van de verschillen.",
+      "Twee voorbeelden met drie slaapkamers zijn afgebeeld: Type 1 van 121,91 m² en Type 2 van 111,29 m². Slaapkamerindeling en balkonoppervlak verschillen. Gebruik het plan om looproutes en buitenruimte te vergelijken.",
+      "De Royal Suite met drie slaapkamers heeft een eigen vanafprijs. Exacte oppervlakte en een specifiek plan ontbreken. Vergelijk schriftelijke specificaties met de standaardwoningen en controleer welke voorzieningen werkelijk zijn inbegrepen.",
+      "Type 1 met vier slaapkamers heeft twee niveaus. Van 287,03 m² totaal is 158,25 m² binnenruimte en 128,78 m² balkon. Controleer bruikbare oppervlaktes, interne trap en de indeling van de aangeboden duplex.",
+      "Type 1 met vijf slaapkamers omvat twee niveaus en 237,46 m² totaal: 188,41 m² binnenruimte en 49,05 m² balkon. Ondanks een extra slaapkamer is het getoonde totaal kleiner dan bij het vierkamervoorbeeld. Vergelijk binnenruimte en indeling.",
+      "De brochure noemt 27 winkels op straatniveau op de begane grond. Winkelruimte heeft een ander gebruiksdoel dan een woning. Individuele oppervlaktes en plannen ontbreken; vraag naar toegestaan gebruik, inrichtingseisen, kosten en het concrete plan."
+    ],
+    "labels": {
+      "home": "Het project",
+      "guides": "Aankoopgidsen",
+      "specs": "Prijs en plattegrondinformatie",
+      "all": "Vergelijk woningen",
+      "layout": "Bekijk de aangeleverde plattegrond",
+      "noPlan": "Een specifiek plan voor deze categorie is niet aangeleverd. Vraag de exacte indeling en specificaties.",
+      "facts": "Bevestigen vóór aankoop",
+      "checklist": [
+        "Actuele schriftelijke prijs en woningnummer",
+        "Betalingsschema en volledige kosten",
+        "Plattegrond, inbegrepen voorzieningen en contract",
+        "Registratie en eventuele visumvoorwaarden"
+      ],
+      "other": "Andere categorieën",
+      "read": "Lees de gids",
+      "price": "Vanafprijs uit de brochure",
+      "area": "Totale oppervlakte van voorbeeldplan",
+      "context": "Architectuurvisualisatie van het project; geen foto van deze individuele woning.",
+      "faq": "Vragen over deze categorie",
+      "qprice": "Wat is de vanafprijs?",
+      "qplan": "Welke plattegrond is beschikbaar?",
+      "qremote": "Kan ik vanuit Nederland kopen?",
+      "qvisa": "Garandeert deze prijs een Golden Visa?",
+      "aprice": "De brochure noemt {name} vanaf AED {aed} en USD {usd}. Deze bedragen garanderen geen actuele beschikbaarheid. Vraag een schriftelijke offerte voor de concrete woning.",
+      "aremote": "Aankoop op afstand hangt af van de ontwikkelaar en woning. Een paspoort start het dossier; identiteit, adres en herkomst van middelen kunnen worden gecontroleerd.",
+      "avisa": "Nee. Een prijs boven AED 2 miljoen garandeert geen verblijf. De investering en officiële voorwaarden bepalen toelating. Woon- en winkelaankopen moeten individueel worden beoordeeld.",
+      "overview": "Ontdek het project",
+      "updated": "Gecontroleerd aan de hand van de aangeleverde brochure · 5 oktober 2026",
+      "sources": "Officiële bronnen"
+    },
+    "guides": [
+      [
+        "Vision Iconic prijzen en betalingsplannen",
+        "Vergelijk AED- en USD-prijzen en controleer het echte betalingsschema vóór reservering.",
+        "De brochure onderscheidt acht categorieën: woningen, Royal Suites, duplexen en winkels. Eén slaapkamer begint bij AED 2.250.000 / USD 612.245; twee standaard bij AED 3.300.000 / USD 897.959. Het woningoverzicht helpt vergelijken zonder één vanafprijs op alle woningen toe te passen.",
+        "Termijnpercentages en betaaldata zijn niet aangeleverd. Vraag reserveringsbedrag, betalingsmomenten, opleveringsbetalingen en kosten schriftelijk op. Een ontwikkelaarsplan verschilt van een hypotheek; goedkeuring en het ontbreken van documentatie zijn niet vanzelfsprekend.",
+        "Bekijk het volledige budget: prijs, registratie, ontwikkelaars- of makelaarskosten, servicekosten en valutakosten. USD-bedragen volgen de brochure, geen live wisselkoers. Alleen een actuele schriftelijke offerte bepaalt de exacte voorwaarden."
+      ],
+      [
+        "Vision Iconic kopen op afstand vanuit Nederland",
+        "Controlepunten vóór reizen of geld overmaken voor een aankoop in Dubai.",
+        "Begin met de concrete woning: nummer, categorie, indeling, prijs en contract. Vergelijk de getoonde plannen en vraag het plan van de aangeboden woning. Projectvisualisaties bewijzen niet het uitzicht of de staat van elke woning.",
+        "De ontwikkelaar kan afronding op afstand ondersteunen. Bevestig identificatie, ondertekening, betaling en registratie. Een paspoort is een startdocument; identiteit, adres en herkomst van middelen kunnen worden gecontroleerd.",
+        "Controleer project en ontwikkelaar via Dubai Land Department en bevestig verkoopdocumenten en betaalinstructies vóór overboeking. Controleer vanuit Nederland ook Nederlandse belasting- en aangifteverplichtingen. Een eenvoudig verkoopproces heft controles niet op."
+      ],
+      [
+        "Vision Iconic locatie en voorzieningen",
+        "Leer Nad Al Sheba en de beschreven projectvoorzieningen kennen.",
+        "De brochure plaatst Vision Iconic in Nad Al Sheba 1 binnen Mercedes-Benz Places | Binghatti City, met het paarden- en renbaanmilieu van Meydan. Geverifieerde reistijden zijn niet aangeleverd; controleer eigen routes en verkeerssituaties.",
+        "Het gemengde project telt volgens de brochure 67 woonverdiepingen, 1.426 appartementen en 27 winkels. Het ontwerp omvat zilveren terrassen, een rond podium en een waterplein van 2.966 m². Dit zijn projectkenmerken, geen individuele woningspecificaties.",
+        "Pools op hoogte en podium, conciërge, valet, spa, fitness, yoga en slimme systemen worden genoemd. Bevestig toegang, beheer, opleveringsspecificaties en servicekosten in het contract. LEED-kwalificatie wordt als ambitie beschreven, niet als reeds verkregen certificering."
+      ],
+      [
+        "Investeerdersvisum en Golden Visa bij vastgoed in Dubai",
+        "Maak onderscheid tussen eigendom, toegestane investering en officiële goedkeuring.",
+        "Vastgoed kopen en verblijf verkrijgen zijn aparte processen. Investeren kan een aanvraag ondersteunen, maar officiële regels en persoonlijke omstandigheden bepalen toelating. De prijs vervangt geen documentatie of goedkeuring.",
+        "Officiële VAE-richtlijnen hanteren doorgaans minimaal AED 2 miljoen toegestane vastgoedinvestering voor de Golden Visa-route, naast andere voorwaarden. Controleer nieuwbouw, financiering en bewijs bij de bevoegde autoriteit. Geen woning is automatisch geschikt.",
+        "Andere vastgoedvisa hebben eigen voorwaarden. Vraag naar route, eigendomsbewijs, aanvraagmoment en afzonderlijke kosten voordat je op basis van een visum kiest. Raadpleeg de officiële VAE- en ICP-bronnen."
+      ],
+      [
+        "Dubai vastgoedbelasting en aankoopkosten",
+        "Waar gelden 0%-claims en welke kosten blijven onderdeel van het budget?",
+        "De VAE heffen geen persoonlijke inkomstenbelasting. De belastingautoriteit sluit toegestane persoonlijke vastgoedbeleggingsinkomsten doorgaans uit van vennootschapsbelasting. Voorwaarden en het onderscheid tussen privébelegging en zakelijke activiteit zijn belangrijk.",
+        "Nederland of je fiscale woonland kan aangifte en belasting over inkomsten of winsten verlangen. Een verblijfsvisum bepaalt niet automatisch fiscale woonplaats. Laat je situatie beoordelen voordat je wereldwijde belastingvrijstelling veronderstelt.",
+        "Registratie en andere vastgoedkosten blijven gelden. Geen koperscommissie moet schriftelijk worden bevestigd en schrapt geen ontwikkelaarskosten of servicekosten. Vraag een uitgesplitst aankoopbudget en de verwachte jaarlijkse kosten."
+      ]
+    ]
+  },
+  "de": {
+    "hub": "Vision Iconic Residenzen",
+    "hubIntro": "Vergleichen Sie die acht Wohn- und Gewerbekategorien der Broschüre. Jede Seite verbindet Einstiegspreis, vorhandene Grundrisse und die Fragen vor der Auswahl einer Einheit.",
+    "unitNames": [
+      "Apartments mit 1 Schlafzimmer",
+      "Apartments mit 2 Schlafzimmern",
+      "Royal Suites mit 2 Schlafzimmern",
+      "Apartments mit 3 Schlafzimmern",
+      "Royal Suites mit 3 Schlafzimmern",
+      "Maisonettes mit 4 Schlafzimmern",
+      "Maisonettes mit 5 Schlafzimmern",
+      "Gewerbeeinheiten"
+    ],
+    "unitSlugs": [
+      "apartment-1-schlafzimmer",
+      "apartment-2-schlafzimmer",
+      "royal-suite-2-schlafzimmer",
+      "apartment-3-schlafzimmer",
+      "royal-suite-3-schlafzimmer",
+      "maisonette-4-schlafzimmer",
+      "maisonette-5-schlafzimmer",
+      "gewerbeeinheit"
+    ],
+    "hubSlug": "residenzen",
+    "guideSlugs": [
+      "preise-und-zahlungsplan",
+      "kauf-aus-der-ferne",
+      "lage-und-ausstattung",
+      "investorenvisum-und-golden-visa",
+      "steuern-und-kaufkosten"
+    ],
+    "unitBodies": [
+      "Beide Grundrisse mit einem Schlafzimmer zeigen 76,45 m² Gesamtfläche: 55,11 m² Innenfläche und 21,34 m² Balkon. Dies ist das kleinste gezeigte Wohnformat. Die Grundrisse belegen nicht, dass jede verfügbare Wohnung identisch aufgeteilt ist.",
+      "Die Broschüre zeigt unterschiedliche Beispiele: Typ 1 mit 95,22 m² und Typ 4 mit 193,38 m², darunter 115,70 m² Balkon. Vergleichen Sie den konkreten Grundriss; die Schlafzimmerzahl allein beschreibt die Außenfläche nicht.",
+      "Die Royal Suite mit zwei Schlafzimmern ist eine eigene Preiskategorie oberhalb des Standardapartments. Ein spezieller Grundriss oder Flächenwert fehlt. Fordern Sie die konkrete Aufteilung und eine schriftliche Beschreibung der Unterschiede an.",
+      "Zwei Grundrisse mit drei Schlafzimmern sind gezeigt: Typ 1 mit 121,91 m² und Typ 2 mit 111,29 m². Schlafzimmeranordnung und Balkone unterscheiden sich. Prüfen Sie Verkehrsflächen und Außenbereiche anhand des Plans.",
+      "Die Royal Suite mit drei Schlafzimmern hat einen eigenen Einstiegspreis. Exakte Fläche und spezifischer Grundriss wurden nicht geliefert. Vergleichen Sie die schriftliche Ausstattung mit der Standardkategorie und bestätigen Sie die tatsächlichen Leistungen.",
+      "Typ 1 mit vier Schlafzimmern verteilt sich auf zwei Ebenen. Die 287,03 m² bestehen aus 158,25 m² Innenfläche und 128,78 m² Balkonen. Prüfen Sie Nutzflächen, interne Treppe und die genaue Aufteilung der angebotenen Maisonette.",
+      "Typ 1 mit fünf Schlafzimmern hat zwei Ebenen und 237,46 m² Gesamtfläche: 188,41 m² innen und 49,05 m² Balkone. Trotz eines zusätzlichen Schlafzimmers ist die Gesamtfläche kleiner als beim Vier-Schlafzimmer-Beispiel. Vergleichen Sie Innenfläche und Aufteilung.",
+      "Die Broschüre nennt 27 Geschäfte im Erdgeschoss. Gewerbeeinheiten verfolgen einen anderen Zweck als Wohnimmobilien. Individuelle Flächen und Pläne fehlen; fragen Sie nach zulässiger Nutzung, Ausbauvorgaben, Kosten und dem Einheitsgrundriss."
+    ],
+    "labels": {
+      "home": "Das Projekt",
+      "guides": "Kaufratgeber",
+      "specs": "Preise und Grundrissangaben",
+      "all": "Residenzen vergleichen",
+      "layout": "Gelieferten Grundriss ansehen",
+      "noPlan": "Ein eigener Grundriss für diese Kategorie liegt nicht vor. Fordern Sie Plan und Ausstattung der konkreten Einheit an.",
+      "facts": "Vor dem Kauf bestätigen",
+      "checklist": [
+        "Aktueller schriftlicher Preis und Einheitsnummer",
+        "Zahlungsplan und vollständige Kosten",
+        "Grundriss, enthaltene Ausstattung und Vertrag",
+        "Registrierung und mögliche Visumvoraussetzungen"
+      ],
+      "other": "Weitere Kategorien",
+      "read": "Ratgeber lesen",
+      "price": "Einstiegspreis laut Broschüre",
+      "area": "Gesamtfläche des Beispielgrundrisses",
+      "context": "Architekturvisualisierung des Projekts; kein Foto dieser einzelnen Residenz.",
+      "faq": "Fragen zu dieser Kategorie",
+      "qprice": "Wie hoch ist der Einstiegspreis?",
+      "qplan": "Welcher Grundriss liegt vor?",
+      "qremote": "Kann ich aus Deutschland kaufen?",
+      "qvisa": "Garantiert dieser Preis ein Golden Visa?",
+      "aprice": "Die Broschüre nennt {name} ab AED {aed} und USD {usd}. Diese Angaben garantieren keine aktuelle Verfügbarkeit. Fordern Sie ein schriftliches Angebot für die konkrete Einheit an.",
+      "aremote": "Fernkauf hängt von Bauträger und Einheit ab. Ein Reisepass eröffnet die Akte; Identitäts-, Adress- und Mittelherkunftsnachweise können verlangt werden.",
+      "avisa": "Nein. Ein Preis über AED 2 Millionen garantiert keinen Aufenthalt. Investition und offizielle Voraussetzungen bestimmen die Berechtigung. Wohn- und Gewerbekäufe sind individuell zu prüfen.",
+      "overview": "Projekt entdecken",
+      "updated": "Anhand der gelieferten Broschüre geprüft · 5. Oktober 2026",
+      "sources": "Offizielle Quellen"
+    },
+    "guides": [
+      [
+        "Vision Iconic Preise und Zahlungspläne",
+        "Vergleichen Sie AED- und USD-Preise und bestätigen Sie den Zahlungsablauf vor Reservierung.",
+        "Die Broschüre unterscheidet acht Kategorien, von Apartments bis Royal Suites, Maisonettes und Gewerbe. Ein Schlafzimmer beginnt bei AED 2.250.000 / USD 612.245; zwei Standard bei AED 3.300.000 / USD 897.959. Das Verzeichnis ermöglicht Vergleich ohne Verallgemeinerung eines Einstiegspreises.",
+        "Ratenprozentsätze und Zahlungstermine wurden nicht geliefert. Fragen Sie Reservierungsbetrag, Zahlungsmeilensteine, Übergabezahlungen und Gebühren schriftlich an. Ein Bauträgerplan unterscheidet sich von einer Hypothek; Genehmigung und fehlende Unterlagen sind nicht automatisch.",
+        "Prüfen Sie das Gesamtbudget: Preis, Registrierung, Bauträger- oder Maklergebühren, Servicekosten und Wechselkosten. USD-Werte folgen der Broschüre, keinem Live-Kurs. Nur ein aktuelles schriftliches Angebot bestimmt die genauen Konditionen."
+      ],
+      [
+        "Vision Iconic aus Deutschland per Fernkauf erwerben",
+        "Prüfschritte vor Reise oder Geldüberweisung für einen Kauf in Dubai.",
+        "Beginnen Sie mit der konkreten Einheit: Nummer, Kategorie, Grundriss, Preis und Vertrag. Vergleichen Sie die dargestellten Pläne und fordern Sie den angebotenen Einheitsplan an. Projektvisualisierungen belegen weder Aussicht noch Zustand jeder Wohnung.",
+        "Der Bauträger kann Fernabwicklung unterstützen. Bestätigen Sie Identifikation, Unterschrift, Zahlung und Registrierung. Ein Reisepass ist ein Startdokument; Identität, Adresse und Mittelherkunft können geprüft werden.",
+        "Prüfen Sie Projekt und Bauträger über Dubai Land Department sowie Verkaufsunterlagen und autorisierte Zahlungsanweisungen vor Überweisung. Prüfen Sie deutsche Steuer- und Meldepflichten. Ein vereinfachter Verkauf ersetzt keine Compliance-Prüfung."
+      ],
+      [
+        "Vision Iconic Lage und Ausstattung",
+        "Nad Al Sheba und die in der Broschüre genannten Leistungen verstehen.",
+        "Die Broschüre verortet Vision Iconic in Nad Al Sheba 1 innerhalb von Mercedes-Benz Places | Binghatti City, im Umfeld der Meydan-Pferdesportanlagen. Verifizierte Fahrzeiten fehlen; prüfen Sie eigene Ziele und Verkehrslage.",
+        "Der Mischnutzungsturm umfasst laut Broschüre 67 Wohnetagen, 1.426 Apartments und 27 Geschäfte. Das Design umfasst silberne Terrassen, ein rundes Podium und einen Wasserplatz von 2.966 m². Dies sind Projektmerkmale, keine individuellen Wohnungsspezifikationen.",
+        "Genannt werden Pools auf Höhe und Podium, Concierge, Valet, Spa, Fitness, Yoga und Smart-Systeme. Prüfen Sie Zugang, Betrieb, Übergabeleistungen und Servicekosten im Vertrag. LEED wird als Qualifizierungsziel beschrieben, nicht als bereits erteilte Zertifizierung."
+      ],
+      [
+        "Investorenvisum und Golden Visa beim Immobilienkauf",
+        "Eigentum, qualifizierte Investition und behördliche Genehmigung unterscheiden.",
+        "Immobilienkauf und Aufenthalt sind getrennte Prozesse. Die Investition kann einen Antrag unterstützen, aber offizielle Regeln und persönliche Umstände bestimmen Berechtigung. Der Preis ersetzt weder Nachweise noch Genehmigung.",
+        "Offizielle VAE-Hinweise nennen grundsätzlich mindestens AED 2 Millionen qualifizierte Immobilieninvestition für die Golden-Visa-Route sowie weitere Voraussetzungen. Prüfen Sie Neubau, Finanzierung und Nachweise bei der zuständigen Behörde. Keine Einheit gilt automatisch als geeignet.",
+        "Andere Immobilienvisa haben eigene Regeln. Fragen Sie nach Visumweg, Eigentumsnachweisen, Antragszeitpunkt und separaten Kosten, bevor Sie anhand eines Visumziels auswählen. Nutzen Sie die offiziellen VAE- und ICP-Quellen."
+      ],
+      [
+        "Dubai Immobiliensteuern und Kaufkosten",
+        "Welche 0%-Aussagen gelten und welche Kosten weiterhin einzuplanen sind.",
+        "Die VAE erheben keine persönliche Einkommensteuer. Die Steuerbehörde schließt qualifizierte persönliche Immobilienerträge grundsätzlich von der Körperschaftsteuer aus. Bedingungen und die Abgrenzung zwischen privater Anlage und Geschäftstätigkeit sind wesentlich.",
+        "Deutschland oder Ihr steuerlicher Wohnsitzstaat kann Meldungen sowie Steuer auf Erträge und Gewinne verlangen. Ein Aufenthaltsvisum bestimmt nicht automatisch den steuerlichen Wohnsitz. Prüfen Sie Ihre Lage, bevor Sie weltweite Steuerfreiheit annehmen.",
+        "Registrierungs- und weitere Immobilienkosten bleiben bestehen. Keine Käuferprovision muss schriftlich bestätigt werden und beseitigt keine Bauträger- oder Servicekosten. Fordern Sie ein aufgeschlüsseltes Kaufbudget und laufende Kosten an."
+      ]
+    ]
+  },
+  "pt": {
+    "hub": "Residências Vision Iconic",
+    "hubIntro": "Compare as oito categorias residenciais e comerciais da brochura. Cada página reúne o preço inicial, plantas disponíveis e os pontos a confirmar antes de escolher uma unidade.",
+    "unitNames": [
+      "Apartamentos de 1 quarto",
+      "Apartamentos de 2 quartos",
+      "Royal Suites de 2 quartos",
+      "Apartamentos de 3 quartos",
+      "Royal Suites de 3 quartos",
+      "Duplex de 4 quartos",
+      "Duplex de 5 quartos",
+      "Espaços comerciais"
+    ],
+    "unitSlugs": [
+      "apartamento-1-quarto",
+      "apartamento-2-quartos",
+      "royal-suite-2-quartos",
+      "apartamento-3-quartos",
+      "royal-suite-3-quartos",
+      "duplex-4-quartos",
+      "duplex-5-quartos",
+      "espaco-comercial"
+    ],
+    "hubSlug": "residencias",
+    "guideSlugs": [
+      "precos-e-plano-pagamentos",
+      "comprar-a-distancia",
+      "localizacao-e-servicos",
+      "visto-investidor-e-golden-visa",
+      "impostos-e-custos-compra"
+    ],
+    "unitBodies": [
+      "As duas plantas de um quarto apresentam 76,45 m² no total: 55,11 m² interiores e 21,34 m² de varanda. É o menor formato residencial ilustrado. Não significa que todas as unidades disponíveis tenham a mesma distribuição.",
+      "A brochura mostra dois exemplos diferentes: Tipo 1 com 95,22 m² e Tipo 4 com 193,38 m², incluindo 115,70 m² de varanda. Compare a planta concreta; o número de quartos não descreve, por si só, o espaço exterior.",
+      "A Royal Suite de dois quartos tem uma categoria de preço própria, superior ao apartamento padrão. Não foi fornecida área ou planta específica. Peça a planta individual e uma explicação escrita das diferenças antes de comparar ofertas.",
+      "São apresentadas duas plantas de três quartos: Tipo 1 com 121,91 m² e Tipo 2 com 111,29 m². Distribuição dos quartos e varandas diferem. Utilize a planta para comparar circulação e espaços exteriores.",
+      "A Royal Suite de três quartos tem o seu próprio preço inicial. A área exata e a planta dedicada não foram fornecidas. Compare especificações escritas com a categoria padrão e confirme as prestações efetivamente incluídas.",
+      "O Tipo 1 de quatro quartos distribui-se por dois pisos. Os 287,03 m² incluem 158,25 m² interiores e 128,78 m² de varandas. Confirme áreas úteis, escada interior e configuração do duplex oferecido.",
+      "O Tipo 1 de cinco quartos ocupa dois níveis e soma 237,46 m²: 188,41 m² interiores e 49,05 m² de varandas. Apesar de mais quartos, o total é inferior ao exemplo de quatro. Compare área interior e distribuição.",
+      "Segundo a brochura, Vision Iconic inclui 27 lojas em piso térreo. O uso comercial difere do residencial. Não foram fornecidas áreas ou plantas individuais; peça usos permitidos, condições de adaptação, encargos e planta da unidade."
+    ],
+    "labels": {
+      "home": "O projeto",
+      "guides": "Guias de compra",
+      "specs": "Preços e plantas disponíveis",
+      "all": "Comparar residências",
+      "layout": "Ver a planta fornecida",
+      "noPlan": "Não foi fornecida uma planta específica desta categoria. Peça a distribuição e especificações da unidade.",
+      "facts": "Confirmar antes de comprar",
+      "checklist": [
+        "Preço atualizado por escrito e número da unidade",
+        "Calendário de pagamentos e custos totais",
+        "Planta, prestações incluídas e contrato",
+        "Registo e condições de visto"
+      ],
+      "other": "Outras categorias",
+      "read": "Ler o guia",
+      "price": "Preço inicial da brochura",
+      "area": "Área total da planta ilustrativa",
+      "context": "Imagem arquitetónica do projeto; não é uma fotografia desta residência individual.",
+      "faq": "Perguntas sobre esta categoria",
+      "qprice": "Qual é o preço inicial?",
+      "qplan": "Que planta está disponível?",
+      "qremote": "Posso comprar a partir de Portugal?",
+      "qvisa": "Este preço garante um Golden Visa?",
+      "aprice": "A brochura apresenta {name} desde {aed} AED e {usd} USD. Estes valores não garantem disponibilidade atual. Peça uma proposta escrita para a unidade concreta.",
+      "aremote": "A compra remota depende do promotor e da unidade. O passaporte inicia o processo; podem ser exigidos identidade, morada e origem dos fundos.",
+      "avisa": "Não. Um preço acima de 2 milhões AED não garante residência. O investimento elegível e condições oficiais determinam aprovação. Compras residenciais e comerciais devem ser avaliadas individualmente.",
+      "overview": "Descobrir o projeto",
+      "updated": "Verificado na brochura fornecida · 5 de outubro de 2026",
+      "sources": "Referências oficiais"
+    },
+    "guides": [
+      [
+        "Preços Vision Iconic e planos de pagamento",
+        "Compare AED e USD e confirme o calendário real antes de reservar.",
+        "A brochura distingue oito categorias: apartamentos, Royal Suites, duplex e lojas. Um quarto começa em 2.250.000 AED / 612.245 USD; dois quartos padrão em 3.300.000 AED / 897.959 USD. O diretório permite comparar sem generalizar um preço inicial a todas as unidades.",
+        "Não foram fornecidos percentagens de prestações ou datas. Peça reserva, momentos de pagamento, valores ligados à entrega e taxas por escrito. Um plano do promotor difere de uma hipoteca; aprovação e ausência de documentos não são automáticas.",
+        "Analise o orçamento completo: preço, registo, custos do promotor ou agência, encargos recorrentes e câmbio. Os USD seguem a brochura, não uma cotação em tempo real. Só uma proposta escrita atualizada determina os termos exatos."
+      ],
+      [
+        "Comprar Vision Iconic à distância desde Portugal",
+        "Passos antes de viajar ou transferir fundos para um imóvel no Dubai.",
+        "Comece pela unidade concreta: número, categoria, planta, preço e contrato. Compare as plantas e peça a da unidade oferecida. As imagens do projeto não comprovam vista ou estado de cada apartamento.",
+        "O promotor pode permitir conclusão remota. Confirme identificação, assinatura, pagamentos e registo. O passaporte é um documento inicial; podem existir verificações de identidade, morada e origem dos fundos.",
+        "Verifique projeto e promotor junto do Dubai Land Department e confirme documentos de venda e instruções de pagamento antes da transferência. A partir de Portugal, verifique obrigações fiscais e declarativas portuguesas. Um processo simplificado não elimina verificações de conformidade."
+      ],
+      [
+        "Localização e serviços de Vision Iconic",
+        "Conheça Nad Al Sheba e os serviços apresentados na brochura.",
+        "A brochura situa Vision Iconic em Nad Al Sheba 1, em Mercedes-Benz Places | Binghatti City, associado ao ambiente equestre de Meydan. Não fornece tempos de viagem verificados; confirme destinos e condições de trânsito.",
+        "A torre mista apresenta 67 pisos residenciais, 1.426 apartamentos e 27 lojas. A arquitetura inclui terraços prateados, pódio circular e uma praça de água de 2.966 m². São características do projeto, não de cada unidade.",
+        "São mencionadas piscinas elevadas e de pódio, concierge, estacionamento assistido, spa, fitness, ioga e sistemas inteligentes. Confirme acesso, funcionamento, entrega e encargos no contrato. A qualificação LEED é um objetivo apresentado, não uma certificação já obtida."
+      ],
+      [
+        "Visto de investidor e Golden Visa no Dubai",
+        "Distinga propriedade, investimento elegível e aprovação oficial.",
+        "Comprar e obter residência são processos distintos. O investimento pode apoiar um pedido, mas regras oficiais e situação individual determinam elegibilidade. O preço não substitui documentação nem aprovação.",
+        "As orientações oficiais dos EAU referem geralmente pelo menos 2 milhões AED de investimento imobiliário elegível para a via Golden Visa, além de outras condições. Consulte a autoridade sobre compra em planta, financiamento e provas. Nenhuma unidade é automaticamente elegível.",
+        "Outros vistos imobiliários têm requisitos próprios. Confirme via, provas de propriedade, data do pedido e custos separados antes de escolher por objetivo de visto. Consulte as referências oficiais EAU e ICP."
+      ],
+      [
+        "Impostos e custos de compra no Dubai",
+        "Onde se aplicam afirmações de 0% e quais custos continuam no orçamento.",
+        "Os EAU não cobram imposto sobre rendimento pessoal. A autoridade fiscal exclui geralmente rendimentos de investimentos imobiliários pessoais elegíveis do imposto sobre sociedades. Condições e distinção entre investimento privado e atividade empresarial são importantes.",
+        "Portugal ou o país de residência fiscal pode exigir declarações e impostos sobre rendimentos e mais-valias. Um visto não determina automaticamente residência fiscal. Avalie a sua situação antes de presumir isenção mundial.",
+        "Taxas de registo e outros custos imobiliários mantêm-se. A ausência de comissão ao comprador exige confirmação escrita e não elimina custos do promotor ou encargos recorrentes. Solicite orçamento detalhado e custos esperados de manutenção."
+      ]
+    ]
+  }
+}
